@@ -1,6 +1,5 @@
 # img-PicGo
 github Picgo图床
-[参考Youtuber 资源核](https://www.youtube.com/watch?v=dg9igIqC0D4&t=315s&ab_channel=%E8%B5%84%E6%BA%90%E6%A0%B8)
 <div align="center">
   <img src="https://raw.githubusercontent.com/Molunerfinn/test/master/picgo/New%20LOGO-150.png" alt="">
   <h1>PicGo</h1>
@@ -25,6 +24,8 @@ github Picgo图床
 ## 应用概述
 
 **PicGo: 一个用于快速上传图片并获取图片 URL 链接的工具**
+[参考Youtuber 资源核](https://www.youtube.com/watch?v=dg9igIqC0D4&t=315s&ab_channel=%E8%B5%84%E6%BA%90%E6%A0%B8)
+[PicGo网址](https://picgo.github.io/PicGo-Doc/)
 
 PicGo 本体支持如下图床：
 
